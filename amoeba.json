@@ -1,5 +1,8 @@
 {
     "dependencies": [
         "hello-world"
+    ],
+    "clients": [
+        "hello-seattle"
     ]
 }
