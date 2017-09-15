@@ -1,8 +1,5 @@
 {
-    "dependencies": [
-        "hello-world"
-    ],
     "clients": [
-        "hello-seattle"
+        "git@github.com:wongnat/dummy.git"
     ]
 }
